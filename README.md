@@ -4,6 +4,11 @@ This project is a simple but powerful **document question-answering app**
 ## You can access the demo here
 [LlamaIndex Doc reader](https://huggingface.co/spaces/ajnx014/LlamaIndex_Document_Reader)
 
+
+## Demo video - 
+
+https://github.com/user-attachments/assets/2b846d45-732f-41df-92dd-aff0497fef8c
+
 ---
 
 This project is a simple but powerful **document question-answering app** built using:
